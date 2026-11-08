@@ -16,3 +16,13 @@ ro.debuggable=1
 
 # Some devices have sdcardfs kernel panicing on 8.0, Disable for everyone for the moment
 ro.sys.sdcardfs=0
+
+# Lenovo TB311FU spoofing
+ro.product.brand=Lenovo
+ro.product.manufacturer=LENOVO
+ro.product.model=Lenovo TB311FU
+ro.product.device=greevil
+ro.product.name=TB311FU_ROW
+ro.build.product=greevil
+ro.build.description=TB311FU_ROW-user 13 TQ3A.230801.002 V14.0.480_ST_230919 release-keys
+ro.build.fingerprint=Lenovo/TB311FU_ROW/greevil:13/TQ3A.230801.002/V14.0.480_ST_230919:user/release-keys
