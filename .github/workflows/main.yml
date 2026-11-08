@@ -33,7 +33,7 @@ jobs:
 
       - name: Install MysticGSI & Dependencies
         run: |
-          git clone https://github.com/Halk56855/mysticgsi.git workspace
+          git clone https://github.com/arthurpatrocinio68-cpu/mysticgsi workspace
           cd workspace
           python3 -m venv .venv
           source .venv/bin/activate
